@@ -13,7 +13,7 @@ Document.getElementById("demo").innerHTML =text;
 
 const cars = ["BMW", "VOLVO", "Saab","Ford","Fiat","Audi"];
 let text="";
-for (let i=0; i<cars.length; length i++){
+for (let i=0; i<cars.length; i++) {
     text +=cars[i] + "<br>";
 }
 document.getElementById("demo").innerHTML = text;
