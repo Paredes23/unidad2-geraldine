@@ -8,7 +8,7 @@ function areaCircunferencia(r){
 let radio = prompt ("ingresa el radio");
 resultado = areaCircunferencia(radio);
 console.log(resultado);
-*/
+*/  
 
 /*let nota = prompt ("Introduce la nota:");
 if (nota<=10){
@@ -16,7 +16,7 @@ if (nota<=10){
 }else if (nota>10{
   alert("Aprobaste");
 }
-*/
+*/ 
 
 function estaEsTuNota(n){
     if(n<=8){
