@@ -1,0 +1,43 @@
+body {
+    height: 400px;
+    background: lightblue url("https://i.pinimg.com/originals/34/6c/87/346c875b4c560b4fa02831e64e7e70da.gif");
+    background-position: center center;
+  } 
+
+
+
+  h2 {
+    color: #15e2d1;
+  }
+
+  h3 {
+    color: #1157da;
+  }
+
+  h4 {
+     color:rgb(247, 22, 153)
+  }
+  
+  h3{
+      color:#1157da;
+  }
+   
+   body {
+    font-family: sans-serif;
+  }
+  body {
+    height: 400px;
+    background: lightblue url("https://i.pinimg.com/originals/d6/68/ab/d668abc72809303852c27275e6a56775.gif");
+    
+  }
+
+  div {
+   border: 5px;
+   color:#710780
+  }
+
+
+
+
+
+  
